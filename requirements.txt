@@ -4,4 +4,4 @@ mxnet >= 1.4.0, <=1.7.0.post2
 onnxruntime
 sentencepiece >= 0.1.6, <=0.1.96
 torch 
-transformers >= 4.8.1, <=4.8.1
+transformers 
